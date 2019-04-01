@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [uptimed](/uptimed.md)
 - [psysh](/psysh.md)
 - [htop](/htop.md)
 - [neovim](/neovim.md)
