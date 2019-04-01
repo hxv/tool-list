@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [tmux](/tmux.md)
 - [pup](/pup.md)
 - [yq/xq](/yq.md)
 - [uptimed](/uptimed.md)
