@@ -14,3 +14,6 @@
 - [pcregrep](/pcregrep.md)
 - [pgcli](/pgcli.md)
 - [termdown](/termdown.md)
+
+## Moja konfiguracja
+Część programów posiada pliki konfiguracyjne. Jeśli modyfikowałem któryś z nich, to najprawdopodobniej zmodyfikowana przez mnie wersja znajduje się w [moim repozytorium dotfiles](https://github.com/hxv/dotfiles).
