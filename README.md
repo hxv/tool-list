@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [pup](/pup.md)
 - [yq/xq](/yq.md)
 - [uptimed](/uptimed.md)
 - [psysh](/psysh.md)
