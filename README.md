@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [lnav](/lnav.md)
 - [tmux](/tmux.md)
 - [pup](/pup.md)
 - [yq/xq](/yq.md)
