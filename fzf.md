@@ -1,4 +1,4 @@
-# fzf
+# [fzf](https://github.com/junegunn/fzf)
 Fuzzy search/completion.
 
 ## Demo
