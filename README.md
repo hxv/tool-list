@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [ranger](/ranger.md)
 - [lnav](/lnav.md)
 - [tmux](/tmux.md)
 - [pup](/pup.md)
