@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [taskwarrior](/taskwarrior.md)
 - [gr](/gr.md)
 - [curl](/curl.md)
 - [speedometer](/speedometer.md)
