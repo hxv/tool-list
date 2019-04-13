@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [speedometer](/speedometer.md)
 - [ranger](/ranger.md)
 - [lnav](/lnav.md)
 - [tmux](/tmux.md)
