@@ -1,4 +1,5 @@
 # [cURL](https://curl.haxx.se/)
+Klient HTTP i nie tylko.
 
 ## Demo
 [![asciicast](https://asciinema.org/a/237805.svg)](https://asciinema.org/a/237805)
