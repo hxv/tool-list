@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [curl](/curl.md)
 - [speedometer](/speedometer.md)
 - [ranger](/ranger.md)
 - [lnav](/lnav.md)
