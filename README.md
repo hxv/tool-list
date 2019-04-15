@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [task-spooler](/task-spooler.md)
 - [taskwarrior](/taskwarrior.md)
 - [gr](/gr.md)
 - [curl](/curl.md)
