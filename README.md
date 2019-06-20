@@ -1,6 +1,7 @@
 # Zbiór terminalowych różności
 
 ## Lista programów
+- [diff-highlight](/diff-highlight.md)
 - [vipe](/vipe.md)
 - [task-spooler](/task-spooler.md)
 - [taskwarrior](/taskwarrior.md)
